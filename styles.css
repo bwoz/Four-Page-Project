@@ -122,21 +122,21 @@ caption{
     letter-spacing: 1px;
 }
 #sectionImage1{
-    background-image: url('/images/BanffSign.jpg');
+    background-image: url('BanffSign.jpg');
     background-position: center;
     background-repeat:no-repeat;
     vertical-align: middle;
     object-fit: cover;
 }
 #sectionImage2{
-    background-image: url('/images/JasperSign.jpg');
+    background-image: url('JasperSign.jpg');
     background-position: center;
     background-repeat:no-repeat;
     vertical-align: middle;
     background-size: cover;
 }
 #sectionImage3{
-    background-image: url('/images/KananaskisCountySign.jpg');
+    background-image: url('KananaskisCountySign.jpg');
     background-position: center;
     background-repeat:no-repeat;
     vertical-align: middle;
